@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 /**
 * main - print all combinations from 00 01 to 98 99 where the first comb
